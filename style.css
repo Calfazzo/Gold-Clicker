@@ -2,12 +2,10 @@ body{
     background-color: #f4f4f4;
     color: black;
 }
-
 .container{
     width: 40%;
     margin: auto;
     text-align: center;
-
 }
 .box-1{
     background-color: #333;
@@ -24,4 +22,12 @@ input[type="submit"]{
 .button:hover{
     background: goldenrod;
     color: black;
+}
+#optional-text{
+    background-color: #333;
+    color: silver;
+    border: 5px goldenrod solid;
+    padding: 5px;
+    width: 6%;
+    margin: auto;
 }
